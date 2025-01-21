@@ -1,8 +1,20 @@
-This is the *My First Project with Python* project I made myself.
+# My First Project with Python  
 
+Welcome to **My First Project with Python**! This is a simple yet practical project I created to calculate net income for a small business.  
 
-<p>Imagine that you're the owner of a new small corner shop. You are doing well and want to determine how much you earned in the first month. Create a simple tool that will calculate your net income. Upon completing this project, you can use this tool for your own accounting needs.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/343?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/343</a>
+## Project Overview  
+Imagine you're the owner of a small corner shop. Business is going well, and you want to calculate how much you earned in the first month. This project is designed to be a straightforward tool to compute your net income. It can even be adapted for your own accounting needs!  
 
-Here's the link to the project: https://hyperskill.org/projects/343
+## Features  
+- User-friendly input for revenue and expenses  
+- Automatic calculation of net income  
+- Simple and efficient design  
 
-Check out my profile: https://hyperskill.org/profile/612562442
+## Learn More  
+This project is part of the [JetBrains Academy Python Track](https://hyperskill.org/projects/343).  
+
+## Project Link  
+Access the project details here: [Project Page](https://hyperskill.org/projects/343)  
+
+## About Me  
+Check out my profile on JetBrains Academy: [My Profile](https://hyperskill.org/profile/612562442)  
