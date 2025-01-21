@@ -11,7 +11,7 @@ Imagine you're the owner of a small corner shop. Business is going well, and you
 - Simple and efficient design  
 
 ## Learn More  
-This project is part of the [JetBrains Academy Python Track](https://hyperskill.org/projects/343).  
+This project is part of the [Introduction to Python Track](https://hyperskill.org/courses/6-introduction-to-python).  
 
 ## Project Link  
 Access the project details here: [Project Page](https://hyperskill.org/projects/343)  
